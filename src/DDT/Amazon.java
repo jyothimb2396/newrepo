@@ -22,6 +22,7 @@ public class Amazon
 {
 	public static void main(String[] args) throws EncryptedDocumentException, IOException, InterruptedException
 	{
+		//thank you
 		//gitbash edited prgm
 		System.setProperty("webdriver.chrome.driver","./software/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
